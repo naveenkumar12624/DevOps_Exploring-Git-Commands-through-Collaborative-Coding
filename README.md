@@ -1,4 +1,4 @@
-# Ex-01 DevOps_Exploring-Git-Commands-through-Collaborative-Coding
+# Ex-01 : Exploring-Git-Commands-through-Collaborative-Coding
 
 ## Aim:
 The aim of this experiment is to familiarize participants with essential Git concepts and commands, enabling them to effectively use Git for version control and collaboration.
